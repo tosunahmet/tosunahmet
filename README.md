@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm Ahmet Tosun! 👋</h1>
 
 <p align="center">
-🎓 1st Year Computer Engineering Student at Karamanoğlu Mehmetbey University <br>
-🧠 Passionate about AI, Cybersecurity, and Full-Stack Development <br>
-🛠 Currently developing a <strong>Market Automation System</strong> and exploring <strong>AI model development</strong> <br>
-🌍 Based in <strong>Bursa / Karaman, Turkey</strong> <br>
-📧 Reach me at: <a href="mailto:ahmettosunn19@gmail.com">ahmettosunn19@gmail.com</a>
+🎓 2nd Year Computer Engineering Student at Karamanoğlu Mehmetbey University <br>
+🧠 Passionate about AI, Automation, Web Development and Game Development <br>
+🛠 Currently developing a <strong>Market Automation System</strong> and exploring <strong>AI-based applications</strong> <br>
+📧 Reach me at: <a href="mailto:bbusiness.ahmet@gmail.com">bbusiness.ahmet@gmail.com</a>
 </p>
 
 ---
@@ -14,20 +13,24 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ## 🚀 Projects I’m Working On
 
 - 🛒 **Market Automation System** (PyQt6, SQLite, JSON, StackWidget, Multi-Language, 2FA)
-- 🤖 **AI Model Development** with real-time data reading & chatbot capability
-- 🌐 **Full-stack web platform** combining social & utility features (Django, REST API)
+- 🤖 **AI Applications** with real-time data analysis and intelligent systems
+- 🌐 **Full-stack Web Platforms** using Django & REST API
+- 🎮 Creating fun and high-quality games for an enjoyable experience with friends
 
 ---
 
@@ -42,18 +45,19 @@
 
 ## 🎯 Future Goals
 
-- 🤖 Build a personal voice assistant like J.A.R.V.I.S.
-- 🌐 Design an AI language model to help humanity
-- 🎮 Publish an FPS-style game with Unity
-- 🧠 Stay mentally sharp while training physically
+- 🤖 Build a personal AI-powered voice assistant (JARVIS-style)
+- 🧠 Create innovative AI projects to support the future of humanity
+- 🎮 Release original games focused on creativity and entertainment
+- 🌐 Launch open-source tools for automation and smart platforms
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Website](https://img.shields.io/badge/Website-visit-0a192f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetosun)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmettosu.n)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rolixinnn)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmetosun)
 
 ---
 
@@ -66,11 +70,10 @@
 <h1 align="center">Selam, Ben Ahmet Tosun! 👋</h1>
 
 <p align="center">
-🎓 Karamanoğlu Mehmetbey Üniversitesi Bilgisayar Mühendisliği 1. Sınıf Öğrencisiyim <br>
-🧠 Yapay zeka, siber güvenlik ve full-stack geliştirme konularına büyük bir ilgi duyuyorum <br>
-🛠 Şu anda <strong>Market Otomasyon Sistemi</strong> geliştiriyorum ve <strong>Yapay Zeka Modeli</strong> üzerinde çalışıyorum <br>
-🌍 Bursa / Karaman, Türkiye'de yaşıyorum <br>
-📧 Bana ulaş: <a href="mailto:ahmettosunn19@gmail.com">ahmettosunn19@gmail.com</a>
+🎓 Karamanoğlu Mehmetbey Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim <br>
+🧠 Yapay zeka, otomasyon, web geliştirme ve oyun geliştirme alanlarına ilgi duyuyorum <br>
+🛠 Şu anda bir <strong>Market Otomasyon Sistemi</strong> geliştiriyorum ve <strong>yapay zeka temelli uygulamalar</strong> üzerine çalışıyorum <br>
+📧 Bana ulaşmak için: <a href="mailto:bbusiness.ahmet@gmail.com">bbusiness.ahmet@gmail.com</a>
 </p>
 
 ---
@@ -79,20 +82,24 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ## 🚀 Üzerinde Çalıştığım Projeler
 
 - 🛒 **Market Otomasyon Sistemi** (PyQt6, SQLite, JSON, StackWidget, Çoklu Dil, 2FA)
-- 🤖 Gerçek zamanlı veri okuma ve sohbet destekli **Yapay Zeka Modeli**
-- 🌐 Django REST API ile sosyal ve yardımcı modülleri birleştiren **Full-stack web platformu**
+- 🤖 Gerçek zamanlı analiz yapan **Yapay Zeka Uygulamaları**
+- 🌐 Django & REST API ile geliştirilen **Full-stack Web Platformları**
+- 🎮 Arkadaşlarla oynarken keyifli ve kaliteli vakit geçirmeye odaklı oyunlar
 
 ---
 
@@ -107,19 +114,20 @@
 
 ## 🎯 Gelecek Hedeflerim
 
-- 🤖 J.A.R.V.I.S. benzeri kişisel bir sesli asistan geliştirmek
-- 🌐 İnsanlığa faydalı olacak bir yapay zeka dil modeli tasarlamak
-- 🎮 Unity ile FPS tarzı bir oyun yayınlamak
-- 🧠 Fiziksel gelişimle birlikte zihinsel keskinliği sürdürmek
+- 🤖 JARVIS tarzında kişisel bir yapay zeka destekli asistan yapmak
+- 🧠 İnsanlığa katkı sağlayacak yenilikçi yapay zeka projeleri üretmek
+- 🎮 Eğlence ve yaratıcılık odaklı özgün oyunlar geliştirmek
+- 🌐 Akıllı sistemler ve otomasyon üzerine açık kaynak projeler oluşturmak
 
 ---
 
-## 🌐 Sosyal Medyada Beni Bul
+## 🌐 Sosyal Medyada Beni Takip Et
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mavi?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-mor?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Website](https://img.shields.io/badge/Web%20Sitesi-ziyaret%20et-0a192f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mavi?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetosun)
+[![Instagram](https://img.shields.io/badge/Instagram-mor?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmettosu.n)
+[![X](https://img.shields.io/badge/X-siyah?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rolixinnn)
+[![Medium](https://img.shields.io/badge/Medium-siyah?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmetosun)
 
 ---
 
-<p align="center"><i>“Büyük işler konfor alanından çıkmadan yapılamaz.”</i></p>
+<p align="center"><i>“Büyük işler konfor alanında yapılmaz.”</i></p>
