@@ -55,7 +55,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetosun)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmettosu.n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmetosu.n)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rolixinnn)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmetosun)
 
@@ -124,7 +124,7 @@
 ## 🌐 Sosyal Medyada Beni Takip Et
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mavi?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetosun)
-[![Instagram](https://img.shields.io/badge/Instagram-mor?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmettosu.n)
+[![Instagram](https://img.shields.io/badge/Instagram-mor?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmetosu.n)
 [![X](https://img.shields.io/badge/X-siyah?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rolixinnn)
 [![Medium](https://img.shields.io/badge/Medium-siyah?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ahmetosun)
 
