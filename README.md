@@ -64,7 +64,7 @@
 <p align="center"><i>“Great things never come from comfort zones.”</i></p>
 
 ---
-
+  <p align="center"><i>“Büyük işler konfor alanında yapılmaz.”</i></p>
 ---
 
 <h1 align="center">Selam, Ben Ahmet Tosun! 👋</h1>
@@ -129,4 +129,7 @@
 
 ---
 
-<p align="center"><i>“Büyük işler konfor alanında yapılmaz.”</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tosunahmet&label=Profile%20views&color=0e75b6&style=flat" alt="tosunahmet" />
+</p>
+
