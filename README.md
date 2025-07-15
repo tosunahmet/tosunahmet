@@ -65,7 +65,7 @@
 <p align="center"><i>“Great things never come from comfort zones.”</i></p>
 
 ---
-
+🇹🇷 Türkçe 🇹🇷
 ---
 
 <h1 align="center">Selam, Ben Ahmet Tosun! 👋</h1>
