@@ -38,6 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettosun&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ahmettosun&theme=tokyonight" width="47%" />
 </p>
 
 ---
@@ -106,7 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmettosun&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmettosun&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ahmettosun&theme=tokyonight" width="47%" />
 </p>
 
 ---
