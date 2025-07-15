@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
 </p>
 
 
@@ -65,7 +65,7 @@
 <p align="center"><i>“Great things never come from comfort zones.”</i></p>
 
 ---
-🇹🇷 Türkçe 🇹🇷
+
 ---
 
 <h1 align="center">Selam, Ben Ahmet Tosun! 👋</h1>
@@ -108,7 +108,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
 </p>
 
 ---
