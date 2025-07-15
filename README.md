@@ -64,7 +64,7 @@
 <p align="center"><i>“Great things never come from comfort zones.”</i></p>
 
 ---
-  <p align="center"><i>“Büyük işler konfor alanında yapılmaz.”</i></p>
+
 ---
 
 <h1 align="center">Selam, Ben Ahmet Tosun! 👋</h1>
