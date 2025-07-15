@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=tosunahmet&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
 
@@ -108,7 +108,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=tosunahmet&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tosunahmet&show_icons=true&theme=tokyonight" width="60%" />
 </p>
 
 ---
